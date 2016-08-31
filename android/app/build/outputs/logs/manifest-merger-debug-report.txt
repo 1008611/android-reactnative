@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:5:5-83
+	android:name
+		ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:6:5-23:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.react:react-native:0.32.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.32.0\AndroidManifest.xml:13:5-20
+MERGED from [org.webkit:android-jsc:r174650] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\org.webkit\android-jsc\r174650\AndroidManifest.xml:2:3-17
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\AndroidManifest.xml:3:3-17
+	android:label
+		ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:7:9-40
+activity#com.wildwolf.myrn.MainActivity
+ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.wildwolf.myrn.SecondActivity
+ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:21:9-61
+	android:name
+		ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:21:19-49
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:22:9-85
+	android:name
+		ADDED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:22:19-83
+uses-sdk
+INJECTED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.react:react-native:0.32.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.32.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.11.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.11.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.11.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:0.11.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.11.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.11.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.11.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.11.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.11.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:23.0.1] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.soloader:soloader:0.1.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\AndroidManifest.xml:2:3-70
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [com.facebook.react:react-native:0.32.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.32.0\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from [com.facebook.react:react-native:0.32.0] D:\react_native\APP\android-reactnative\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.32.0\AndroidManifest.xml:11:22-75
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:2:1-25:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:2:1-25:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\react_native\APP\android-reactnative\android\app\src\main\AndroidManifest.xml:2:1-25:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
