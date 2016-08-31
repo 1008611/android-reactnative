@@ -1,5 +1,5 @@
 # android-reactnative
-
+###原生android项目中增加React native页面。
 ####
 1.先建一个空目录 eg：android-reactnative，在目录下新建一个android 文件夹，将自己原有的Android工程（假如没有就创建一个HelloWorld ）。扔里面。
 ####
